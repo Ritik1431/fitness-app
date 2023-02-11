@@ -1,0 +1,49 @@
+.regform{
+    margin: 0px;
+    padding: 0px;
+    width: 100%;
+    background: url(../Assets/back.jpg);
+    background-size: 1520px 700px;
+}
+.form1{
+    padding-top: 6rem;
+    text-align: center;
+    background-color: white;
+    width: 40rem;
+    margin-left: 28rem;
+    height: 25rem;
+}
+.memberList{
+    margin-top: 1.5rem;
+    font-size: 2rem;
+    border-color: transparent;
+    background-color: rgb(66, 66, 227);
+    margin-bottom: 2rem;
+}
+.memberList:hover{
+    color: white;
+    border-color: transparent;
+}
+.memberlistdiv {
+    text-align: center;
+}
+input{
+    margin-top: 1rem;
+    font-size: 2rem;
+    border-radius: 5px;
+}
+.addmember{
+    margin-top: 1.5rem;
+    font-size: 2rem;
+    border-color: transparent;
+    background-color: rgb(66, 66, 227);
+}
+.addmember:hover{
+    color: white;
+    border-color: transparent;
+}
+.header > h1{
+    text-align: center;
+    color: white;
+    padding-top: 2rem;
+}
